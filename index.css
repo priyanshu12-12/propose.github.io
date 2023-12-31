@@ -1,0 +1,25 @@
+body,html{
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+button{
+    padding: 7%;
+    border-radius: 10px;
+    border:1px solid red;
+}
+
+.buttons{
+    margin-left: 43%;
+}
+
+h1{
+    margin-top: 5%;
+}
+
+.result{
+    margin-top: 34%;
+    margin-left: 25%;
+}
